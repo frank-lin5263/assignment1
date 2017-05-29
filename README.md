@@ -20,7 +20,6 @@ var handlebars = require('express3-handlebars')
  '/repeat/:word/:count' route 裡將word及count兩參數暫存後,使用for loop重復,再呼叫res.render('repeat', { repeat: word} );
  
  Demo
- 
- https://youtu.be/9AOGatSpx7I
+https://youtu.be/tu7KZnqM7xE
  
  
